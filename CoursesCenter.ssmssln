@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CoursesCenter", "CoursesCenter\CoursesCenter.ssmssqlproj", "{7D0CE0D2-CBEA-430A-8073-94B374743F60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0CE0D2-CBEA-430A-8073-94B374743F60}.Default|Default.ActiveCfg = Default
+		{DFB52056-7EE7-4E4C-A5E2-0D9C3C409B27}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

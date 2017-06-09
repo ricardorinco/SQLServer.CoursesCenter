@@ -1,4 +1,6 @@
-﻿# Abstract
+> **Jeremias 29:11** "Porque sou eu que conheço os planos que tenho para vocês', diz o Senhor, 'planos de fazê-los prosperar e não de causar dano, planos de dar a vocês esperança e um futuro."
+
+# Abstract
 This article intends with a software development compare two frameworks Object-Relational Mapping (ORM),
 [Hibernate] wrote in Java and it’s a ported version to .Net, [NHibernate]. These frameworks have the objective
 to reduce the complexity between software developed that use the object-oriented and require a relational
